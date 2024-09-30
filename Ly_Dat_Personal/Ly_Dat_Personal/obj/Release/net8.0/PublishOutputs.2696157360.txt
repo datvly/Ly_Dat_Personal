@@ -1,0 +1,8 @@
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Release\net8.0\PubTmp\Out\Ly_Dat_Personal.exe
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Release\net8.0\PubTmp\Out\appsettings.json
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Release\net8.0\PubTmp\Out\libman.json
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Release\net8.0\PubTmp\Out\Ly_Dat_Personal.dll
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Release\net8.0\PubTmp\Out\Ly_Dat_Personal.deps.json
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Release\net8.0\PubTmp\Out\Ly_Dat_Personal.runtimeconfig.json
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Release\net8.0\PubTmp\Out\Ly_Dat_Personal.pdb

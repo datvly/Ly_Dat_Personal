@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dat Ly\\Desktop\\Github\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal.csproj": {}
+    "E:\\Github\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dat Ly\\Desktop\\Github\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal.csproj": {
+    "E:\\Github\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dat Ly\\Desktop\\Github\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal.csproj",
+        "projectUniqueName": "E:\\Github\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal.csproj",
         "projectName": "Ly_Dat_Personal",
-        "projectPath": "C:\\Users\\Dat Ly\\Desktop\\Github\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal.csproj",
-        "packagesPath": "C:\\Users\\Dat Ly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dat Ly\\Desktop\\Github\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal\\obj\\",
+        "projectPath": "E:\\Github\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal.csproj",
+        "packagesPath": "C:\\Users\\datly\\.nuget\\packages\\",
+        "outputPath": "E:\\Github\\Ly_Dat_Personal\\Ly_Dat_Personal\\Ly_Dat_Personal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dat Ly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\datly\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

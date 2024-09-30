@@ -28,3 +28,33 @@ C:\Users\Dat Ly\Desktop\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\o
 C:\Users\Dat Ly\Desktop\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\Ly_Dat_Personal.pdb
 C:\Users\Dat Ly\Desktop\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\Ly_Dat_Personal.genruntimeconfig.cache
 C:\Users\Dat Ly\Desktop\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\ref\Ly_Dat_Personal.dll
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\bin\Debug\net8.0\appsettings.Development.json
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\bin\Debug\net8.0\appsettings.json
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\bin\Debug\net8.0\libman.json
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\bin\Debug\net8.0\Ly_Dat_Personal.staticwebassets.runtime.json
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\bin\Debug\net8.0\Ly_Dat_Personal.exe
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\bin\Debug\net8.0\Ly_Dat_Personal.deps.json
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\bin\Debug\net8.0\Ly_Dat_Personal.runtimeconfig.json
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\bin\Debug\net8.0\Ly_Dat_Personal.dll
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\bin\Debug\net8.0\Ly_Dat_Personal.pdb
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\Ly_Dat_Personal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\Ly_Dat_Personal.AssemblyInfoInputs.cache
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\Ly_Dat_Personal.AssemblyInfo.cs
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\Ly_Dat_Personal.csproj.CoreCompileInputs.cache
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\Ly_Dat_Personal.MvcApplicationPartsAssemblyInfo.cache
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\Ly_Dat_Personal.RazorAssemblyInfo.cache
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\Ly_Dat_Personal.RazorAssemblyInfo.cs
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\Ly_Dat_Personal.sourcelink.json
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\staticwebassets.build.json
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\staticwebassets.development.json
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\staticwebassets\msbuild.Ly_Dat_Personal.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\staticwebassets\msbuild.build.Ly_Dat_Personal.props
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ly_Dat_Personal.props
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ly_Dat_Personal.props
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\scopedcss\bundle\Ly_Dat_Personal.styles.css
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\Ly_Dat_Personal.dll
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\refint\Ly_Dat_Personal.dll
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\Ly_Dat_Personal.pdb
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\Ly_Dat_Personal.genruntimeconfig.cache
+E:\Github\Ly_Dat_Personal\Ly_Dat_Personal\Ly_Dat_Personal\obj\Debug\net8.0\ref\Ly_Dat_Personal.dll

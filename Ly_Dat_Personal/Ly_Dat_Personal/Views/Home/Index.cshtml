@@ -6,18 +6,26 @@
     <h1 class="display-4">Howdy! My name is Dat</h1>
 
     <div class="d-flex justify-content-center align-items-center mb-4">
-        <img src="~/Attachments/dat_ly.jpg" alt="Dat Ly" class="img-fluid rounded-circle me-4" style="max-width: 200px;" />
+        <img src="~/Attachments/dat_ly.jpg" alt="Dat Ly" class="img-fluid" style="width: 25%; border-radius: 15px;" />
 
-        <div class="card bg-light" style="max-width: 20rem;">
+        <div class="card bg-light ms-4" style="max-width: 20rem;">
             <div class="card-body">
                 <p class="card-text">I'm a 4th year MIS Major at University of Texas at Austin. Love to code and share the joy of creation!</p>
             </div>
         </div>
     </div>
-    
+
     <p>Connect with me:</p>
-    <a href="mailto:dat.ly@utexas.edu" class="btn btn-primary"><i class="fas fa-envelope"></i> Email</a>
-    <a href="https://www.linkedin.com/in/datly" class="btn btn-info"><i class="fab fa-linkedin"></i> LinkedIn</a>
+    <a href="mailto:dat.ly@utexas.edu" class="btn btn-primary">
+        <i class="fas fa-envelope"></i> dat.ly@utexas.edu
+    </a>
+    <a href="https://www.linkedin.com/in/dat-ly/" class="btn btn-info">
+        <i class="fab fa-linkedin"></i> LinkedIn
+    </a>
+
+
+
+
     
     <h2 class="mt-4">My Favorite Restaurants in Austin!</h2>
     <table class="table table-striped">
@@ -42,11 +50,13 @@
             </tr>
         </tbody>
     </table>
-    
+
     <h2 class="mt-4">My Favorite TED Talk</h2>
-    <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8jPQjjsBbIc" allowfullscreen></iframe>
+    <div class="embed-responsive" style="max-width: 800px; margin: 0 auto; position: relative; padding-bottom: 56.25%; height: 0;">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/x9Ezzxy0frA?si=VRPIoB0eCIk_m17N" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
+
+
     
     <div class="mt-4">
         <a asp-action="Professional" class="btn btn-primary">Professional Info</a>
